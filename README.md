@@ -1,0 +1,2 @@
+# veeonemanager
+automanager
